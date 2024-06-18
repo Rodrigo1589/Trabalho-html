@@ -1,0 +1,1 @@
+user-agent: * disallow: /admin/ disallow: /private/ sitemap: https://www.yoursite.com/sitemap.xml
