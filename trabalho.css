@@ -252,7 +252,7 @@ section.secao .flex {
         display: flex;
     }
     .slide img{
-        max-width: 500px;
+        max-width: 900px;
     }
 
     h1{
